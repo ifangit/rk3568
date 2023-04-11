@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"type_traits": "c",
+			"fs.h": "c",
+			"ioctl.h": "c",
+			"uaccess.h": "c",
+			"kernel.h": "c",
+			"platform_device.h": "c",
+			"fb.h": "c",
+			"kthread.h": "c",
+			"of_address.h": "c"
+		}
+	}
+}
